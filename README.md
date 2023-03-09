@@ -1,2 +1,2 @@
 # rsschool-cv
-https://evactoha.github.io/rsschool-cv/cv
+https://evtoha.github.io/rsschool-cv/
